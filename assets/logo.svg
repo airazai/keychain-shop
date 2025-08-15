@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60">
+<defs>
+  <linearGradient id="g" x1="0" x2="1">
+    <stop offset="0%" stop-color="#0ea5e9"/><stop offset="100%" stop-color="#3b82f6"/>
+  </linearGradient>
+</defs>
+<rect rx="14" ry="14" width="220" height="60" fill="#0b1220"/>
+<g transform="translate(16,12)">
+  <circle cx="18" cy="18" r="12" fill="none" stroke="url(#g)" stroke-width="4"/>
+  <rect x="30" y="16" width="22" height="4" rx="2" fill="#94a3b8"/>
+  <circle cx="56" cy="18" r="6" fill="#94a3b8"/>
+</g>
+<text x="90" y="38" font-family="system-ui,Segoe UI,Roboto,Arial" font-size="22" fill="white">ChainedUp</text>
+</svg>

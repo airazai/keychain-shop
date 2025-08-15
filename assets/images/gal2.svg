@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#f8fafc"/>
+  <g transform="translate(480,270)">
+    <rect x="-200" y="-120" width="400" height="240" rx="24" fill="#e2e8f0" stroke="#94a3b8"/>
+    <path d="M -100,20 a30,30 0 1,1 60,0 a30,30 0 1,1 -60,0 z" fill="none" stroke="#3b82f6" stroke-width="12"/>
+    <path d="M 70,-50 q 40,30 0,60 q -40,30 0,60" fill="none" stroke="#0ea5e9" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="50%" y="92%" text-anchor="middle" font-size="28" font-family="system-ui,Segoe UI,Roboto,Arial" fill="#334155">Acrylic Charm</text>
+</svg>
